@@ -8,4 +8,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'begineer-tutorial-angular';
+  city : string = "Pune City";
+
+  isLoggedIn : boolean = true;
 }
